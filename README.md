@@ -5,6 +5,8 @@ The application is simplified and deliberately contains bugs.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![Java CI with Maven](https://github.com/kerteszmate2016-dotcom/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/kerteszmate2016-dotcom/se-lab/actions/workflows/maven.yml)
+
 ## Getting started
 
 - The project is implemented in Java 21.
